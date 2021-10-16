@@ -1,0 +1,19 @@
+.note{
+    background-color: white;
+    margin: 30px 20px;
+    height: 100px;
+    width: 200px;
+    overflow-y: scroll;
+    margin-top: 7rem;
+}
+.operation{
+    display: flex;
+    justify-content: flex-end;
+    padding: 0.5rem;
+}
+.edit{
+    margin-right: 5px;
+}
+.hidden{
+    display: none;
+}
